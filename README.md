@@ -12,8 +12,6 @@
 
 Obsessed with every frame and every byte. 
 
-From system architecture to the smallest implementation details, nothing is incidental.
-
 ## Work
 
 **[Tide Island](https://github.com/enhaoswen/Tide-island)**
